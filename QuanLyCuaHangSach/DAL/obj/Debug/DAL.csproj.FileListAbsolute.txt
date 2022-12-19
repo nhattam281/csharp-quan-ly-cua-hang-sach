@@ -1,0 +1,7 @@
+S:\CNTT\Chuyen Nganh\6 Thuc tap chuyen mon\TTCM\QuanLyCuaHangSach\DAL\bin\Debug\DAL.dll.config
+S:\CNTT\Chuyen Nganh\6 Thuc tap chuyen mon\TTCM\QuanLyCuaHangSach\DAL\bin\Debug\DAL.dll
+S:\CNTT\Chuyen Nganh\6 Thuc tap chuyen mon\TTCM\QuanLyCuaHangSach\DAL\bin\Debug\DAL.pdb
+S:\CNTT\Chuyen Nganh\6 Thuc tap chuyen mon\TTCM\QuanLyCuaHangSach\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+S:\CNTT\Chuyen Nganh\6 Thuc tap chuyen mon\TTCM\QuanLyCuaHangSach\DAL\obj\Debug\DAL.dll
+S:\CNTT\Chuyen Nganh\6 Thuc tap chuyen mon\TTCM\QuanLyCuaHangSach\DAL\obj\Debug\DAL.pdb
+S:\CNTT\Chuyen Nganh\6 Thuc tap chuyen mon\TTCM\QuanLyCuaHangSach\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
